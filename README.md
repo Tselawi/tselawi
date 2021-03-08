@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔  I’m looking for internship opportunities.
 - 💬  Ask me about ...
-- 📫  How to reach me: <a href="www.linkedin.com/in/tariq-selawi-2a40b813b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Tariq-selawi" height="40" width="40" /></a> &nbsp;&nbsp;
+- 📫  How to reach me: <a href="www.linkedin.com/in/tariq-selawi-2a40b813b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Tariq-selawi" height="40" width="40" color="white"/></a> &nbsp;&nbsp;
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
