@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi Everyone! 👋
 
 
-**Tselawi/tselawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Tselawi/tselawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 
-## 🛠  Programming Languages 
+##  🛠   Programming Languages & Tools:
  * HTML
  * CSS
  * JavaScript
