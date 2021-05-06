@@ -43,4 +43,3 @@ Here are some ideas to get you started:
 - https://php-form-pizza.herokuapp.com/src/index.php
 - https://tselawi.github.io/react-pomodoro/
 - https://tariqs-portfolio.netlify.app/
-- 
