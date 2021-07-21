@@ -1,6 +1,6 @@
-<h1 style="text-algin:center;"> Hi Everyone! 👋</h1>
+<h1 algin="center"> Hi Everyone! 👋</h1>
 
-<div style="text-align:center; margin-bottom:30px;"><img src="https://media.tenor.com/images/2b140792248cbf1df91c9dd58a5a47aa/tenor.gif" /></div>
+<div algin="center" style="text-align:center; margin-bottom:30px;"><img src="https://media.tenor.com/images/2b140792248cbf1df91c9dd58a5a47aa/tenor.gif" /></div>
 <!-- **Tselawi/tselawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ***
