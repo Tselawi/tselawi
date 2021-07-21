@@ -58,4 +58,3 @@
 - [My Portfolio - Reactjs](https://tariqs-portfolio.netlify.app/)
 
 ## wating for more...!
-***
