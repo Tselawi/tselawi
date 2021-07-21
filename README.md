@@ -1,4 +1,4 @@
-<h1 align="center"> Hi Everyone! 👋</h1>
+<h1 style="text-algin:center;"> Hi Everyone! 👋</h1>
 
 <div style="text-align:center; margin-bottom:30px;"><img src="https://media.tenor.com/images/2b140792248cbf1df91c9dd58a5a47aa/tenor.gif" /></div>
 <!-- **Tselawi/tselawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -19,7 +19,7 @@
 
 <div style="margin: 30px;">
     <ul style="display:flex; align-items:center;justify-content:space-around; flex-direction:row;">
-        <li style="list-style-type:none;"><a href="www.linkedin.com/in/tariq-selawi" target="blank">
+        <li style="list-style-type:none;"><a href="https://www.linkedin.com/in/tariq-selawi" target="blank">
         <img style="background-color:white; filter:invert(180%)" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Tariq-selawi" height="40
         " width="40
         "/></a></li>
@@ -58,3 +58,17 @@
 - [My Portfolio - Reactjs](https://tariqs-portfolio.netlify.app/)
 
 ## wating for more...!
+
+***
+
+### 🏠  [Homepage - Reactjs](https://tariqs-portfolio.netlify.app/))
+
+## Author
+
+👤 **Tariq selawi**
+
+* Website: [@https:\/\/tariqs-portfolio.netlify.app](https://tariqs-portfolio.netlify.app)
+* Twitter: [@https:\/\/twitter.com\/home?lang=en](https://twitter.com/https:\/\/twitter.com\/home?lang=en)
+* Github: [@https:\/\/github.com\/Tselawi](https://github.com/https:\/\/github.com\/Tselawi)
+* LinkedIn: [@https:\/\/www.linkedin.com\/in\/tariq-selawi](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/tariq-selawi)
+
