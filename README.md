@@ -61,7 +61,7 @@
 
 ***
 
-### 🏠  [Homepage - Reactjs](https://tariqs-portfolio.netlify.app/))
+### 🏠  [Homepage - Reactjs](https://tariqs-portfolio.netlify.app/)
 
 ## Author
 
