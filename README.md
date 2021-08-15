@@ -8,7 +8,7 @@
 <div size='30px'> Hi! My name is Tariq.  I live in Belguim. Currently, I'm doing an internship at Brussels on (SVI) and It will end on last October, 2021. So, I'm looking for <strong><u> Job Opportunity </u></strong> at Brussels. Thank You for taking the time to view my GitHub Profile 😁 
 </div>
 <div align="center">
- <img  src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 250px></div><br>
+ <img  src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 250px></div>
 <h1> About Me</h1>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -23,7 +23,6 @@ Taking online course in [Udemy]("https://www.udemy.com/"), [YouTube]("https://ww
 - 💬 Talk to me about Reactjs, JavaScript, Php, Wordpress & Job Opportunities at Brussels 
 - 📫  How to reach me: [Tariq CV](https://www.canva.com/design/DAEf28ZwD2I/LLNPsT4qWORXQP2rUhpCaw/view?utm_content=DAEf28ZwD2I&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) 👀
 
-<br>
 <br>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -50,7 +49,7 @@ Taking online course in [Udemy]("https://www.udemy.com/"), [YouTube]("https://ww
 <a href= https://github.com/tselawi?tab=repositories&q=&type=&language=postman&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'> </a>
 
 <br>
-<br>
+
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/tariq-selawi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
@@ -58,7 +57,7 @@ Taking online course in [Udemy]("https://www.udemy.com/"), [YouTube]("https://ww
 <a href = 'https://tariqs-portfolio.netlify.app/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 
 <br>
-<br>
+
 
 ## My URL project:
 - [Weather App - Reactjs](https://find-my-weather.netlify.app/)
@@ -70,7 +69,7 @@ Taking online course in [Udemy]("https://www.udemy.com/"), [YouTube]("https://ww
 - [Wordpress project](https://tariq-data.me/wp/) (Not yet done!)
 
 <br>
-<br>
+
 
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
