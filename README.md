@@ -4,12 +4,8 @@
 </div>
 
 <h1 align="center"> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tselawi.tselawi)
-
-</p>
-<div size='20px'> Hi! My name is Tariq.  I live in Belguim. Currently, I'm doing an internship at Brussels on (SVI) and It will end on last October, 2021. So, I'm looking for <strong><u> Job Opportunity </u></strong> at Brussels. Thank You for taking the time to view my GitHub Profile 😁 
+<div size='30px'> Hi! My name is Tariq.  I live in Belguim. Currently, I'm doing an internship at Brussels on (SVI) and It will end on last October, 2021. So, I'm looking for <strong><u> Job Opportunity </u></strong> at Brussels. Thank You for taking the time to view my GitHub Profile 😁 
 </div>
 <div align="center">
  <img  src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 250px></div><br>
