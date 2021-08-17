@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on WordPress project, Creating plugin (Reactjs), Testing structured tools (schema.org), php (MVC) & Javascript
 
 - 🌱 I’m currently learning Front-end development, Back-end development, Php, Javascript & Wordpress
-Taking online course in [Udemy]("https://www.udemy.com/"), [YouTube]("https://www.youtube.com") & [openclassroom]("https://openclassrooms.com/".
+Taking online course in [Udemy]("https://www.udemy.com/"), [YouTube]("https://www.youtube.com") & [openclassroom]("https://openclassrooms.com/").
 
 - 👯 I’m looking to collaborate on Tech Articles (Wordpress, Custom Query, Live Search & Relational) 
 
