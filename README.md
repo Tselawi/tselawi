@@ -5,7 +5,7 @@
 
 <h1 align="center"> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
-<div size='30px'><i> Hi! My name is Tariq.  I live in Belguim. Currently, I'm doing an internship at Brussels on (SVI) and It will end on last October, 2021. So, I'm looking for <strong><u> Job Opportunity </u></strong> at Brussels. Thank You for taking the time to view my GitHub Profile</i> 😁 
+<div size='30px'><i> Hi! My name is Tariq.  I live in Belguim. Currently, I'm looking for <strong><u> Job Opportunity </u></strong> at Brussels. Thank You for taking the time to view my GitHub Profile</i> 😁 
 </div>
 <div align="center">
  <img  src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 250px></div>
@@ -61,12 +61,12 @@ Taking online course in [Udemy]("https://www.udemy.com/"), [YouTube]("https://ww
 
 
 ## My URL project:
+- [My Portfolio - Angular](https://selawi-portfolio.netlify.app/)
 - [Weather App - Reactjs](https://find-my-weather.netlify.app/)
 - [Character Manager - Javascript](https://tselawi.github.io/character-manager-js/)
 - [COGIP APP - PHP MVC](https://cogip-project.herokuapp.com/src/index.php)
 - [Mcdonald App- Reactjs](https://ta-mcdonaldapp.netlify.app/) (Responsive only for mobile)
 - [Pomodoro - Reactjs](https://tselawi.github.io/react-pomodoro/)
-- [My Portfolio - Reactjs](https://tariqs-portfolio.netlify.app/)
 - [Wordpress project](https://tariq-data.me/wp/) (Not yet done!)
 
 <br>
